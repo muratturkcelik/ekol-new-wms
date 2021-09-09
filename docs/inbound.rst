@@ -12,6 +12,6 @@ Install the module using::
 
   $pip install ekol_new_wms
 
-.. container:: Important
+.. highlights:: Important
    
    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet odio dictum, malesuada dolor non, interdum nulla. Aliquam vel massa turpis.
