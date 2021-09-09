@@ -22,5 +22,7 @@ Install the module using::
    
 .. warning::
    
-
+   Maecenas dignissim purus eget ante venenatis, quis pulvinar eros ultricies. Fusce id risus ac ipsum aliquet elementum sed sit amet risus.
+   
+.. image:: images/image_example.jpeg
    
