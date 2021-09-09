@@ -20,7 +20,7 @@ Install the module using::
   
    Maecenas dignissim purus eget ante venenatis, quis pulvinar eros ultricies. Fusce id risus ac ipsum aliquet elementum sed sit amet risus.
    
-   Warning
+Warning
    
    Vestibulum eu eros sit amet dolor tristique egestas.
    
