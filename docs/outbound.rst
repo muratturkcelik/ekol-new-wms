@@ -14,8 +14,6 @@ This is :title:`interpreted text` using an explicit role.
 
 :code:`a = b + c`
 
-Here is some awesome bash code :bash:`a = b + c`.
-
 Allocation
 ==========
 Integer sollicitudin non quam sit amet blandit. Pellentesque vitae turpis diam. Nulla vel massa viverra, sollicitudin nisi quis, varius purus. Ut viverra magna nec risus dignissim iaculis. Cras blandit maximus tellus non vehicula. Nam eu nulla at augue sagittis condimentum. Praesent rhoncus ex eu dui auctor, et sodales quam venenatis. Aliquam laoreet malesuada sapien, ac imperdiet nulla tincidunt non. Mauris ex tortor, bibendum nec enim ac, auctor viverra erat. Sed tincidunt urna id ipsum volutpat ultricies. Sed tellus orci, malesuada sed purus vel, luctus gravida erat. Morbi at scelerisque tellus. Aliquam maximus diam id ante semper finibus. Proin sollicitudin finibus ex non sodales. Suspendisse a eros quis sapien elementum mattis.
