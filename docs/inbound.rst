@@ -11,3 +11,8 @@ Nullam nec convallis ante. Cras varius egestas nisl, nec tempor massa rhoncus si
 Install the module using::
 
   $pip install ekol_new_wms
+
+.. highlight:: python
+   :linenothreshold: 5
+   
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet odio dictum, malesuada dolor non, interdum nulla. Aliquam vel massa turpis.
