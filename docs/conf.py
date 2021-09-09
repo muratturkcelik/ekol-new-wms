@@ -45,7 +45,7 @@ master_doc = 'index'
 # General information about the project.
 project = u'Ekol New Generation WMS'
 copyright = u'2021, Ekol Logistics'
-Author name(s): = u'Ekol Engineering Team'
+author: = u'Ekol Engineering Team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
