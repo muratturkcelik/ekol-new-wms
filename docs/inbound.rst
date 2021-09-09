@@ -24,3 +24,5 @@ Install the module using::
    
    Vestibulum eu eros sit amet dolor tristique egestas.
    
+.. image::images/image_example.jpeg
+   
