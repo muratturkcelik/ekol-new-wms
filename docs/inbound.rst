@@ -16,11 +16,11 @@ Install the module using::
    
    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet odio dictum, malesuada dolor non, interdum nulla. Aliquam vel massa turpis.
    
-.. seealso:: Important
+.. seealso::
   
    Maecenas dignissim purus eget ante venenatis, quis pulvinar eros ultricies. Fusce id risus ac ipsum aliquet elementum sed sit amet risus.
    
-Warning
+.. warning::
    
    Vestibulum eu eros sit amet dolor tristique egestas.
    
