@@ -17,8 +17,7 @@ Install the module using::
    
 .. note::
    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet odio dictum, malesuada dolor non, interdum nulla. Aliquam vel massa turpis.
-   
-   
+      
 .. seealso::
    Maecenas dignissim purus eget ante venenatis, quis pulvinar eros ultricies. Fusce id risus ac ipsum aliquet elementum sed sit amet risus.
    
