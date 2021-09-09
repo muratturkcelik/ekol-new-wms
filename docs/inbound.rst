@@ -8,4 +8,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in neque dolor
 
 Nullam nec convallis ante. Cras varius egestas nisl, nec tempor massa rhoncus sit amet. Donec ullamcorper tellus et cursus sodales. Sed vulputate ligula in turpis varius, et condimentum metus malesuada. Praesent quam ipsum, maximus nec tristique vel, sodales et tortor. Nulla ut dui quis purus condimentum molestie. Nulla at urna metus. Sed pulvinar, neque eu placerat molestie, lorem nisi sodales lectus, a posuere libero ex vel elit. Aenean lacinia pellentesque quam, vel bibendum magna laoreet eu. Sed sagittis eu mauris a rhoncus. Donec eget consectetur lorem. Aliquam congue egestas diam sed aliquam. Nunc quis sem sapien. Cras pharetra metus dolor, non laoreet ipsum varius eget. Duis et condimentum purus, ac maximus nulla.
 
-::Integer mollis feugiat justo non molestie. Aenean eu lectus risus. Morbi ut condimentum purus, ac convallis sem. Suspendisse a convallis massa, ut condimentum eros.
+Install the module using::
+
+  $pip install ekol_new_wms
